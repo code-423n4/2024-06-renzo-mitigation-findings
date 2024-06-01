@@ -12,13 +12,13 @@
 (../../issues?q=is%3Aopen+is%3Aissue+label%3A"2+(Med+Risk)"%2C"3+(High+Risk)"+-label%3A"unsatisfactory"%2C"insufficient+quality+report")
 -->
 
-# [Sponsorname] Mitigation Review
+# Renzo Mitigation Review
 
 Competition findings are submitted to this repo.
 
 Unless otherwise discussed, this repo will be made public after competition completion, sponsor review, judging, and issue mitigation window.
 
-**Contributors to this repo:** prior to report publication, please review the [Agreements & Disclosures](../../issues/1) issue.
+**Contributors to this repo:** prior to report publication, please review the [Agreements & Disclosures](https://github.com/code-423n4/2024-06-renzo-mitigation-findings/issues/1) issue.
 
 **Note that when the repo is public, after all issues are mitigated, your comments will be publicly visible; they may also be included in your C4 audit report.**
 
