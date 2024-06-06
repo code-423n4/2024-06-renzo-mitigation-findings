@@ -1,0 +1,8 @@
+{
+  "contest": 388,
+  "handle": "Bauchibred",
+  "risk": "3",
+  "title": "The `ezETH should be minted or redeemed based on current supply and TVL` invariant has been broken by the fix applied to H-04 which also leads to unfair loss of assets for users",
+  "issueId": 27,
+  "issueUrl": "https://github.com/code-423n4/2024-06-renzo-mitigation-findings/issues/27"
+}
