@@ -1,0 +1,8 @@
+{
+  "contest": 388,
+  "handle": "Bauchibred",
+  "risk": "3",
+  "title": "OperatorDelegator will leak ezETH yield due to integrating an inconsistent gas refunds mechanism",
+  "issueId": 28,
+  "issueUrl": "https://github.com/code-423n4/2024-06-renzo-mitigation-findings/issues/28"
+}
