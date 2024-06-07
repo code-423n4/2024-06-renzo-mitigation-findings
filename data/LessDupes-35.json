@@ -1,0 +1,8 @@
+{
+  "contest": 388,
+  "handle": "LessDupes",
+  "risk": "3",
+  "title": "Calling WithdrawQueue.claim() can change the RestakeManager's mint/redeem rate enabling value extraction exploit",
+  "issueId": 35,
+  "issueUrl": "https://github.com/code-423n4/2024-06-renzo-mitigation-findings/issues/35"
+}
