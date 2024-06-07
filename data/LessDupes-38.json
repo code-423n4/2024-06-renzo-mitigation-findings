@@ -1,0 +1,8 @@
+{
+  "contest": 388,
+  "handle": "LessDupes",
+  "risk": "2",
+  "title": "[M-12] mitigation error: `getRate()` should not revert in all cases",
+  "issueId": 38,
+  "issueUrl": "https://github.com/code-423n4/2024-06-renzo-mitigation-findings/issues/38"
+}
