@@ -1,0 +1,8 @@
+{
+  "contest": 388,
+  "handle": "LessDupes",
+  "risk": "2",
+  "title": "xRenzoDeposit can mint at invalid rates",
+  "issueId": 49,
+  "issueUrl": "https://github.com/code-423n4/2024-06-renzo-mitigation-findings/issues/49"
+}
