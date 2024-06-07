@@ -1,0 +1,8 @@
+{
+  "contest": 388,
+  "handle": "Fassi_Security",
+  "risk": "3",
+  "title": "Honest users can lose funds when calling the `claim()` function.",
+  "issueId": 39,
+  "issueUrl": "https://github.com/code-423n4/2024-06-renzo-mitigation-findings/issues/39"
+}
